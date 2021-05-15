@@ -1,3 +1,21 @@
+banner() {
+
+clear
+
+echo -e "\033[31m      ______        _______________|         ______            \e[0m";
+echo -e "\033[31m     /  __  \       |  ____________|        /  __  \           \e[0m";
+echo -e "\033[31m    /  /  \  \      |  |                   /  /  \  \          \e[0m";
+echo -e "\033[31m   /  /    \  \     |  |                  /  /    \  \         \e[0m";
+echo -e "\033[31m  /  [[[[]]]]  \    |  |       ____      /  [[[[]]]]  \        \e[0m";
+echo -e "\033[31m /  /        \  \   |  |_______|  |     /  /        \  \       \e[0m";
+echo -e "\033[31m/  /          \  \  |_____________|    /  /          \  \      \e[0m";
+
+
+printf "\e[1;77m Facebook :- https://www.facebook.com/profile.php?id=100007071872377 \e[0m \n"
+printf "\e[1;77m v2.0 Coded By https://github.com/AntonyAGA/ \e[0m \n"
+
+}
+
 #Check for updates
 echo "Go to home directory"
 cd $HOME
