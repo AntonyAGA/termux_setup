@@ -7,7 +7,7 @@ to setup termux type :
 
 pkg install git
 
-git clone 
+git clone https://github.com/AntonyAGA/termux_setup.git
 
 cd termux_setup
 
